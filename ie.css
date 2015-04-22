@@ -1,0 +1,16 @@
+.nav { height: 33px; }
+.button { border-radius: 0 !important; }
+.container {	
+	background: url(images/mushroom.png) no-repeat;
+	background-position: 100% 84px;
+}
+
+.forum  div, .forumpager div { padding: 10px; text-align: left; display: inline-block; vertical-align: top; float: left; height: auto; }
+
+html, body {height: 100%}
+
+.forum li, .forumpager li, .threadpager li { overflow:hidden; width:100%; height: 100%; }
+
+.threadpager li .content { width: 760px; height: 100%; }
+
+.threadpost { padding: 0 !important; }
